@@ -1,0 +1,21 @@
+main {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr;
+    grid-template-rows: 90px 400px;
+    grid-auto-rows: auto;
+}
+
+
+.stage3 {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.stage4 {
+    padding: 20px 5% 7% 5%;
+}
+
+.stage4 span {
+    font-weight: bold;
+}
